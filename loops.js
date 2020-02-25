@@ -20,4 +20,6 @@ function whileLoop(number){
 
 
 function doWhileLoop(num){
+  
+  
 }
